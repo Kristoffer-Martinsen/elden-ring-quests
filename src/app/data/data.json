@@ -18,98 +18,82 @@
         {
           "id": 2,
           "description": "Reach Altus Plateau",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 3,
           "description": "Talk at Roundtable Hold",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 4,
           "description": "Talk to him north of the Altus Highway Junction Site of Grace",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 5,
           "description": "Find Noble Goldmask on the north section of the Forest-Spanning Great Bridge, south of East Windmill Pasture",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 6,
           "description": "Talk to him north of the Altus Highway Junction Site of Grace",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 7,
           "description": "Talk to him on the north section of the Forest-Spanning Great Bridge",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 8,
           "description": "Obtain at least two Great Runes and gain access to Leyndell",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 9,
           "description": "Talk near the Leyndell Colosseum",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 10,
           "description": "Find Golden Order Principia prayerbook and purchase Law of Regression incantation",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 11,
           "description": "Use Law of Regression incantation in front of Radagon's Statue to solve his riddle",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 12,
           "description": "Talk to Goldmask",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 13,
           "description": "Talk to Corhyn and Goldmask at the bridge south of Stargazer's Ruins right above the Ancient Snow Valley Ruins Site of Grace",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 14,
           "description": "Defeat Maliketh",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 15,
           "description": "Find Goldmask in Leyndell, Capital of Ash",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 16,
           "description": "ENDS CORHYN'S QUESTLINE",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         },
         {
           "id": 17,
           "description": "UNLOCKS Age of Order ending",
-          "isDone": false,
-          "blockers": []
+          "isDone": false
         }
       ]
     }
