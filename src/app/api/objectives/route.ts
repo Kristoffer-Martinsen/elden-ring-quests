@@ -1,5 +1,4 @@
 
-import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
@@ -17,8 +16,8 @@ const readDataFile = (): any => {
   }
 };
 
-export async function GET(res: NextResponse) {
+export async function GET(res: Response) {
   const data = readDataFile();
-  res = NextResponse.json({ data });
+  res = Response.json({ data });
   return res;
 }
