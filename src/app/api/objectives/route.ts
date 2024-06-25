@@ -2,11 +2,9 @@
 import fs from "fs";
 import path from "path";
 
-const dataFilePath = path.join(process.cwd(), 'src/data', 'data.json');
+const dataFilePath = path.join(process.cwd(), 'src/app/data', 'data.json');
 
-const readDataFile = (): any => {
-  console.log(dataFilePath);
-  
+const readDataFile = () => {
   try {
     const data = fs.readFileSync(dataFilePath, 'utf-8');
     return JSON.parse(data);
