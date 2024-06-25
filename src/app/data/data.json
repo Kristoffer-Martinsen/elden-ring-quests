@@ -1,0 +1,117 @@
+{
+  "questLines": [
+    {
+      "id": 1,
+      "name": "Corhyn",
+      "objectives": [
+        {
+          "id": 1,
+          "description": "Meet in Roundtable Hold",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 1,
+              "description": "Burning the Erdtree before solving his riddle"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "description": "Reach Altus Plateau",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 3,
+          "description": "Talk at Roundtable Hold",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 4,
+          "description": "Talk to him north of the Altus Highway Junction Site of Grace",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 5,
+          "description": "Find Noble Goldmask on the north section of the Forest-Spanning Great Bridge, south of East Windmill Pasture",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 6,
+          "description": "Talk to him north of the Altus Highway Junction Site of Grace",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 7,
+          "description": "Talk to him on the north section of the Forest-Spanning Great Bridge",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 8,
+          "description": "Obtain at least two Great Runes and gain access to Leyndell",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 9,
+          "description": "Talk near the Leyndell Colosseum",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 10,
+          "description": "Find Golden Order Principia prayerbook and purchase Law of Regression incantation",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 11,
+          "description": "Use Law of Regression incantation in front of Radagon's Statue to solve his riddle",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 12,
+          "description": "Talk to Goldmask",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 13,
+          "description": "Talk to Corhyn and Goldmask at the bridge south of Stargazer's Ruins right above the Ancient Snow Valley Ruins Site of Grace",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 14,
+          "description": "Defeat Maliketh",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 15,
+          "description": "Find Goldmask in Leyndell, Capital of Ash",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 16,
+          "description": "ENDS CORHYN'S QUESTLINE",
+          "isDone": false,
+          "blockers": []
+        },
+        {
+          "id": 17,
+          "description": "UNLOCKS Age of Order ending",
+          "isDone": false,
+          "blockers": []
+        }
+      ]
+    }
+  ]
+}
