@@ -5,7 +5,7 @@ type Objective = {
   id: number;
   description: string;
   isDone: boolean;
-  blockers: {
+  blockers?: {
     id: number;
     description: string;
   }[];

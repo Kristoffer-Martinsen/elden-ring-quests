@@ -3,7 +3,7 @@ import path from "path";
 
 const dataFilePath = path.join(process.cwd(), 'src/app/data', 'data.json');
 
-const readDataFile = () => {
+const readDataFile = async () => {
   try {
     const data = fs.readFileSync(dataFilePath, 'utf-8');
     return JSON.parse(data);
@@ -13,8 +13,9 @@ const readDataFile = () => {
   }
 };
 
-export async function GET(res: Response) {
-  const data = readDataFile();
-  res = Response.json({data});
-  return res;
+export async function GET() {
+  const data = await readDataFile();
+  console.log(data);
+  
+  return Response.json(data.questLines);
 }

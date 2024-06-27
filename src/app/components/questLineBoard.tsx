@@ -33,9 +33,9 @@ export default function QuestLineBoard() {
   return (
     <div>
       <h1>Elden Ring Quest Tracker</h1>
-      {/* {questLines.map(questLine => (
+      {questLines.map(questLine => (
         <Questline key={questLine.id} questLine={questLine} />
-      ))} */}
+      ))}
     </div>
   );
 }
