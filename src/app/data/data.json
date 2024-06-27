@@ -278,6 +278,82 @@
           "isDone": false
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Boc",
+      "objectives": [
+        {
+          "id": 52,
+          "description": "Meet in Limgrave (disguised as tree)",
+          "isDone": false
+        },
+        {
+          "id": 53,
+          "description": "Talk in Coastal Cave",
+          "isDone": false
+        },
+        {
+          "id": 54,
+          "description": "Defeat Demi-Human Chief",
+          "isDone": false
+        },
+        {
+          "id": 55,
+          "description": "Give Sewing Needle",
+          "isDone": false
+        },
+        {
+          "id": 56,
+          "description": "Talk at the Lake-Facing Cliffs Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 57,
+          "description": "Talk at the East Raya Lucaria Gate Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 58,
+          "description": "Talk at Altus Highway Junction Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 59,
+          "description": "Talk at East Capital Ramparts Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 60,
+          "description": "Find Gold Sewing Needle at Church of Vows",
+          "isDone": false
+        },
+        {
+          "id": 61,
+          "description": "Talk at any location and give him Gold Sewing Needle",
+          "isDone": false
+        },
+        {
+          "id": 62,
+          "description": "Find 'You're beautiful' Pratling Pate at Hermit Village",
+          "isDone": false
+        },
+        {
+          "id": 63,
+          "description": "Give him Larval Tear OR Use Pratling Pate",
+          "isDone": false
+        },
+        {
+          "id": 64,
+          "description": "If given Larval Tear he moves next to Rennala",
+          "isDone": false
+        },
+        {
+          "id": 65,
+          "description": "ENDS BOC'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     }
   ]
 }
