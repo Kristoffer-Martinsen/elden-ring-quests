@@ -212,6 +212,72 @@
           "isDone": false
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Varre",
+      "objectives": [
+        {
+          "id": 40,
+          "description": "Meet at The first Step Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 41,
+          "description": "Defeat any Runebearer",
+          "isDone": false
+        },
+        {
+          "id": 42,
+          "description": "Talk to Enia at Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 43,
+          "description": "Find his message at first spot near First Step Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 44,
+          "description": "Talk at Rose Church",
+          "isDone": false
+        },
+        {
+          "id": 45,
+          "description": "Use Festering Bloody Finger three times OR Defeat Magnus the Beast Claw in Writheblood Ruins",
+          "isDone": false
+        },
+        {
+          "id": 46,
+          "description": "Receive Lord of Blood's Favor",
+          "isDone": false
+        },
+        {
+          "id": 47,
+          "description": "Soak in a Maiden's blood",
+          "isDone": false
+        },
+        {
+          "id": 48,
+          "description": "Talk at Rose Church",
+          "isDone": false
+        },
+        {
+          "id": 49,
+          "description": "Interract with red summon sign near the Mausoleum Dynasty Midpoint Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 50,
+          "description": "Defeat White Mask Varre",
+          "isDone": false
+        },
+        {
+          "id": 51,
+          "description": "ENDS VARRE'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     }
   ]
 }
