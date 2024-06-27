@@ -96,6 +96,122 @@
           "isDone": false
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Ranni",
+      "objectives": [
+        {
+          "id": 18,
+          "description": "Meet in Church of Elleh",
+          "isDone": false
+        },
+        {
+          "id": 19,
+          "description": "Defeat Loretta",
+          "isDone": false
+        },
+        {
+          "id": 20,
+          "description": "Talk at Three Sisters",
+          "isDone": false
+        },
+        {
+          "id": 21,
+          "description": "Meet in Church of Elleh",
+          "isDone": false
+        },
+        {
+          "id": 22,
+          "description": "Accept to serve her",
+          "isDone": false
+        },
+        {
+          "id": 23,
+          "description": "Talk to Blaidd in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 24,
+          "description": "Talk to Iji in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 25,
+          "description": "Talk to Seluvis at Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 26,
+          "description": "Talk to Blaidd at Siofra River",
+          "isDone": false
+        },
+        {
+          "id": 27,
+          "description": "Ask Seluvis about Nokron",
+          "isDone": false
+        },
+        {
+          "id": 28,
+          "description": "Give Sellen the letter of introduction",
+          "isDone": false
+        },
+        {
+          "id": 29,
+          "description": "Defeat Radahn",
+          "isDone": false
+        },
+        {
+          "id": 30,
+          "description": "Talk in Three sisters",
+          "isDone": false
+        },
+        {
+          "id": 31,
+          "description": "Find Fingerslayer Blade in Nokron",
+          "isDone": false
+        },
+        {
+          "id": 32,
+          "description": "Give her the Fingerslayer Blade",
+          "isDone": false
+        },
+        {
+          "id": 33,
+          "description": "Find Ranni Miniature Doll at Ainsel River Main and talk to her 3 times while resting there",
+          "isDone": false
+        },
+        {
+          "id": 34,
+          "description": "Defeat Baleful Shadow invader",
+          "isDone": false
+        },
+        {
+          "id": 35,
+          "description": "Use Discarded Palace Key to unlock the chest found in the Raya Lucaria Grand Lubrary and get Dark Moon Ring",
+          "isDone": false
+        },
+        {
+          "id": 36,
+          "description": "Defeat Astel, Naturalborn of the Void",
+          "isDone": false
+        },
+        {
+          "id": 37,
+          "description": "Interact with Ranni's doll body",
+          "isDone": false
+        },
+        {
+          "id": 38,
+          "description": "ENDS RANNI'S QUESTLINE",
+          "isDone": false
+        },
+        {
+          "id": 39,
+          "description": "Unlocks Age of Stars ending",
+          "isDone": false
+        }
+      ]
     }
   ]
 }
