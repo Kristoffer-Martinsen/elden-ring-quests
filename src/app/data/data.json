@@ -410,6 +410,107 @@
           "isDone": false
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Hyetta",
+      "objectives": [
+        {
+          "id": 76,
+          "description": "Find Shabiri Grape",
+          "isDone": false
+        },
+        {
+          "id": 77,
+          "description": "Meet near the Lake-Facing Cliffs Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 78,
+          "description": "Give Shabiri Grape",
+          "isDone": false
+        },
+        {
+          "id": 79,
+          "description": "Talk near Purified Ruins",
+          "isDone": false
+        },
+        {
+          "id": 80,
+          "description": "Find Shabiri Grape",
+          "isDone": false
+        },
+        {
+          "id": 81,
+          "description": "Give Shabiri Grape",
+          "isDone": false
+        },
+        {
+          "id": 82,
+          "description": "Talk north of the Gate Town Bridge",
+          "isDone": false
+        },
+        {
+          "id": 83,
+          "description": "Find Shabiri Grape",
+          "isDone": false
+        },
+        {
+          "id": 84,
+          "description": "Give Shabiri Grape",
+          "isDone": false
+        },
+        {
+          "id": 85,
+          "description": "Talk near Bellum Church",
+          "isDone": false
+        },
+        {
+          "id": 86,
+          "description": "Defeat Festering Fingerprint Vyke invader at Church of Inhibition",
+          "isDone": false
+        },
+        {
+          "id": 87,
+          "description": "Give Fingerprint Grape",
+          "isDone": false
+        },
+        {
+          "id": 88,
+          "description": "Defeat Mohg, the Omen",
+          "isDone": false
+        },
+        {
+          "id": 89,
+          "description": "Talk at Frenzied Flame Proscription",
+          "isDone": false
+        },
+        {
+          "id": 90,
+          "description": "Remove all armor and interact with door",
+          "isDone": false
+        },
+        {
+          "id": 91,
+          "description": "Talk to her",
+          "isDone": false
+        },
+        {
+          "id": 92,
+          "description": "ENDS HYETTA'S QUEST LINE",
+          "isDone": false
+        },
+        {
+          "id": 93,
+          "description": "UNLOCKS Lord of the Frenzied Flame ending",
+          "isDone": false
+        },
+        {
+          "id": 94,
+          "description": "PREVENTS ALL OTHER ENDEINGS UNLESS MIQUELLA'S NEEDLE IS USED AT DRAGONLORD PLACIDUSAX'S ARENA AT CRUMBLING FARUM AZULA TO REVERSE THE THREE FINGERS' FLAME OF FRENZY",
+          "isDone": false
+        }
+      ]
     }
   ]
 }
