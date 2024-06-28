@@ -567,27 +567,242 @@
     {
       "id": 9,
       "name": "Gowry",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 103,
+          "description": "Meet at Gowry's Shack",
+          "isDone": false
+        },
+        {
+          "id": 104,
+          "description": "Defeat Commander O'Neil",
+          "isDone": false
+        },
+        {
+          "id": 105,
+          "description": "Give him the Unalloyed Gold Needle",
+          "isDone": false
+        },
+        {
+          "id": 106,
+          "description": "Receive repaired Unalloyed Gold Needle after resting",
+          "isDone": false
+        },
+        {
+          "id": 107,
+          "description": "Gowry leaves until you talk to Millicent at Gowry's Shack",
+          "isDone": false
+        },
+        {
+          "id": 108,
+          "description": "Talk to Gowry after you Assist/Challenge Millicent and talk to her",
+          "isDone": false
+        },
+        {
+          "id": 109,
+          "description": "ENDS GOWRY'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 10,
       "name": "Millicent",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 110,
+          "description": "Meet at the Church of the Plague",
+          "isDone": false
+        },
+        {
+          "id": 111,
+          "description": "Give her the Unalloyed Gold Needle",
+          "isDone": false
+        },
+        {
+          "id": 112,
+          "description": "Talk at Gowry's Shack",
+          "isDone": false
+        },
+        {
+          "id": 113,
+          "description": "Talk at Erdtree-Gazing Hill Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 114,
+          "description": "Find Valkyrie's Prosthesis at The Shaded Castle",
+          "isDone": false
+        },
+        {
+          "id": 115,
+          "description": "Give her Valkyrie's Prosthesis at Erdtree-Gazing Hill",
+          "isDone": false
+        },
+        {
+          "id": 116,
+          "description": "Defeat Godskin Apostle",
+          "isDone": false
+        },
+        {
+          "id": 117,
+          "description": "Talk at Windmill Heights Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 118,
+          "description": "Talk at Ancient Snow Valley Ruins Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 119,
+          "description": "Talk at Prayer Room Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 120,
+          "description": "Defeat Ulcerated Tree Spirit (near Drainage Channel Site of Grace)",
+          "isDone": false
+        },
+        {
+          "id": 121,
+          "description": "Assit her OR Challenge her",
+          "isDone": false
+        },
+        {
+          "id": 122,
+          "description": "Talk to Her",
+          "isDone": false
+        },
+        {
+          "id": 123,
+          "description": "Loot her body",
+          "isDone": false
+        },
+        {
+          "id": 124,
+          "description": "ENDS MILLICENT'S QUEST LINE",
+          "isDone": false
+        },
+        {
+          "id": 125,
+          "description": "Defeat Malenia",
+          "isDone": false
+        },
+        {
+          "id": 126,
+          "description": "MIQUELLA'S NEEDLE IS USED AT DRAGONLORD PLACIDUSAX'S ARENA AT CRUMBLING FARUM AZULA TO REVERSE THE THREE FINGERS' FLAME OF FRENZY",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 11,
       "name": "D, Beholder of Death",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 127,
+          "description": "Meet at Siofra Aqueduct",
+          "isDone": false
+        },
+        {
+          "id": 128,
+          "description": "Give him Twinned Set in the Siofra Aqueduct",
+          "isDone": false
+        },
+        {
+          "id": 129,
+          "description": "Talk at Deeproot Depth's",
+          "isDone": false
+        },
+        {
+          "id": 130,
+          "description": "ENDS D, BEHOLDER OF DEATH QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 12,
       "name": "D, Hunter of the Dead",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 131,
+          "description": "Meet in Stormhill",
+          "isDone": false
+        },
+        {
+          "id": 132,
+          "description": "Talk/Meet in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 133,
+          "description": "Give Weathered Dagger",
+          "isDone": false
+        },
+        {
+          "id": 134,
+          "description": "Loot his armor",
+          "isDone": false
+        },
+        {
+          "id": 135,
+          "description": "ENDS D, HUNTER OF THE DEAD QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 13,
       "name": "Fia",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 136,
+          "description": "Meet in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 137,
+          "description": "Receive Weathered Dagger",
+          "isDone": false
+        },
+        {
+          "id": 138,
+          "description": "Fia moves to Deeproot Depths",
+          "isDone": false
+        },
+        {
+          "id": 139,
+          "description": "Defeat Fia's summons",
+          "isDone": false
+        },
+        {
+          "id": 140,
+          "description": "Talk to her at Deeproot Depths and let her hold you",
+          "isDone": false
+        },
+        {
+          "id": 141,
+          "description": "Find Cursemark of Death at the top of the Divine Tower of Liurnia",
+          "isDone": false
+        },
+        {
+          "id": 142,
+          "description": "Give her Cursemark of Death",
+          "isDone": false
+        },
+        {
+          "id": 143,
+          "description": "ENDS FIA'S QUEST LINE",
+          "isDone": false
+        },
+        {
+          "id": 144,
+          "description": "UNLOCKS Age of Duskborn ending",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 14,
