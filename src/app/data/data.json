@@ -354,6 +354,62 @@
           "isDone": false
         }
       ]
+    },
+    {
+      "id": 5,
+      "name": "Yura",
+      "objectives": [
+        {
+          "id": 66,
+          "description": "Meet northeast of Seaside Ruins Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 67,
+          "description": "Defeat Flying Dragon Agheel",
+          "isDone": false
+        },
+        {
+          "id": 68,
+          "description": "Learn about Church of Dragon Communion",
+          "isDone": false
+        },
+        {
+          "id": 69,
+          "description": "Defeat Bloody Finger Nerijus invader",
+          "isDone": false
+        },
+        {
+          "id": 70,
+          "description": "Talk north of Murkwater Cave",
+          "isDone": false
+        },
+        {
+          "id": 71,
+          "description": "Interract with red summon sign north of the Main Academy Gate Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 72,
+          "description": "Defeat Bloody Finger Ravenmount Assassin",
+          "isDone": false
+        },
+        {
+          "id": 73,
+          "description": "Talk at the Second Church of Marika",
+          "isDone": false
+        },
+        {
+          "id": 74,
+          "description": "Defeat Eleonora, Violet Bloody Finger invader",
+          "isDone": false
+        },
+        {
+          "id": 75,
+          "description": "ENDS YURA'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     }
   ]
 }
