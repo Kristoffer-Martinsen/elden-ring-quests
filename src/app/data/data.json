@@ -511,6 +511,178 @@
           "isDone": false
         }
       ]
+    },
+    {
+      "id": 7,
+      "name": "Irina",
+      "objectives": [
+        {
+          "id": 95,
+          "description": "Meet beyond the Bridge of Sacrifice",
+          "isDone": false
+        },
+        {
+          "id": 96,
+          "description": "ENDS IRINA'S QUEST LINE",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Edgar",
+      "objectives": [
+        {
+          "id": 97,
+          "description": "Meet on top of Castle Morne",
+          "isDone": false
+        },
+        {
+          "id": 98,
+          "description": "Defeat Leonine Mistbegotten",
+          "isDone": false
+        },
+        {
+          "id": 99,
+          "description": "Talk on top of Castle Morne",
+          "isDone": false
+        },
+        {
+          "id": 100,
+          "description": "Find them at Irina's spot",
+          "isDone": false
+        },
+        {
+          "id": 101,
+          "description": " Defeat him after he invades at Revenger's Shack",
+          "isDone": false
+        },
+        {
+          "id": 102,
+          "description": "ENDS EDGAR'S QUEST LINE",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gowry",
+      "objectives": []
+    },
+    {
+      "id": 10,
+      "name": "Millicent",
+      "objectives": []
+    },
+    {
+      "id": 11,
+      "name": "D, Beholder of Death",
+      "objectives": []
+    },
+    {
+      "id": 12,
+      "name": "D, Hunter of the Dead",
+      "objectives": []
+    },
+    {
+      "id": 13,
+      "name": "Fia",
+      "objectives": []
+    },
+    {
+      "id": 14,
+      "name": "Rogier",
+      "objectives": []
+    },
+    {
+      "id": 15,
+      "name": "Melina",
+      "objectives": []
+    },
+    {
+      "id": 16,
+      "name": "Blaidd",
+      "objectives": []
+    },
+    {
+      "id": 17,
+      "name": "Iji",
+      "objectives": []
+    },
+    {
+      "id": 18,
+      "name": "Seluvis",
+      "objectives": []
+    },
+    {
+      "id": 19,
+      "name": "Jerren",
+      "objectives": []
+    },
+    {
+      "id": 20,
+      "name": "Sellen",
+      "objectives": []
+    },
+    {
+      "id": 21,
+      "name": "Gideon Ofnir",
+      "objectives": []
+    },
+    {
+      "id": 22,
+      "name": "Nepheli Loux",
+      "objectives": []
+    },
+    {
+      "id": 23,
+      "name": "Kenneth Haight",
+      "objectives": []
+    },
+    {
+      "id": 24,
+      "name": "Dung Eater",
+      "objectives": []
+    },
+    {
+      "id": 25,
+      "name": "Blackguard Big Boggart",
+      "objectives": []
+    },
+    {
+      "id": 26,
+      "name": "Rya",
+      "objectives": []
+    },
+    {
+      "id": 27,
+      "name": "Tanith",
+      "objectives": []
+    },
+    {
+      "id": 28,
+      "name": "Bernahl",
+      "objectives": []
+    },
+    {
+      "id": 29,
+      "name": "Diallos",
+      "objectives": []
+    },
+    {
+      "id": 30,
+      "name": "Jar Bairn",
+      "objectives": []
+    },
+    {
+      "id": 31,
+      "name": "Alexander",
+      "objectives": []
+    },
+    {
+      "id": 32,
+      "name": "Patches",
+      "objectives": []
     }
   ]
 }
