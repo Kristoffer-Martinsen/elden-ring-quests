@@ -1541,32 +1541,345 @@
     {
       "id": 27,
       "name": "Tanith",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 269,
+          "description": "Meet in Volcano Manor",
+          "isDone": false
+        },
+        {
+          "id": 270,
+          "description": "Agree to join Volcano Manor",
+          "isDone": false
+        },
+        {
+          "id": 271,
+          "description": "Assassinate Old Knight Istvan, next to the Divine Bridge in Stormhill",
+          "isDone": false
+        },
+        {
+          "id": 272,
+          "description": "Talk to Tanith to get reward from her and next target at table",
+          "isDone": false
+        },
+        {
+          "id": 273,
+          "description": "Assassinate Rileigh the Idle in Altus Plateau",
+          "isDone": false
+        },
+        {
+          "id": 274,
+          "description": "Talk to Tanith to get reward from her and next target at table",
+          "isDone": false
+        },
+        {
+          "id": 275,
+          "description": "Assassinate Juno Hoslow, Knight of Blood in Mountaintops of the Giants",
+          "isDone": false
+        },
+        {
+          "id": 276,
+          "description": "Talk to Tanith to get reward from her and an offer to meet her Lord",
+          "isDone": false
+        },
+        {
+          "id": 277,
+          "description": "Defeat Rykard",
+          "isDone": false
+        },
+        {
+          "id": 278,
+          "description": "Talk to Tanith",
+          "isDone": false
+        },
+        {
+          "id": 279,
+          "description": "ENDS TANITH'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 28,
       "name": "Bernahl",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 280,
+          "description": "Meet in Warmaster's Shack",
+          "isDone": false
+        },
+        {
+          "id": 281,
+          "description": "Talk in Volcano Manor after assassinated Old Knight Istvan",
+          "isDone": false
+        },
+        {
+          "id": 282,
+          "description": "Talk in Volcano Manor after assassinated Rileigh the Idle",
+          "isDone": false
+        },
+        {
+          "id": 283,
+          "description": "Assassinate Vargram the Raging Wolf and Errant Sorcerer Wilhelm in Leyndell, Royal Capital",
+          "isDone": false
+        },
+        {
+          "id": 284,
+          "description": "After defeating Recusant Bernahl in Crumbling Farum Azula",
+          "isDone": false
+        },
+        {
+          "id": 285,
+          "description": "ENDS BERNAHL'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 29,
       "name": "Diallos",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 286,
+          "description": "Meet in Roundtable Hold",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 9,
+              "description": "Completing the Volcano Manor legacy dungeon before his second encounter"
+            }
+          ]
+        },
+        {
+          "id": 287,
+          "description": "Talk in West of the Academy Gate Town Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 288,
+          "description": "Talk in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 289,
+          "description": "Moves to Volcano Manor",
+          "isDone": false
+        },
+        {
+          "id": 290,
+          "description": "Talk in Volcano Manor",
+          "isDone": false
+        },
+        {
+          "id": 291,
+          "description": "Talk in Volcano Manor after assassinated Old Knight Istvan",
+          "isDone": false
+        },
+        {
+          "id": 292,
+          "description": "Moves to Jarburg after assassinating Rileigh the Idle",
+          "isDone": false
+        },
+        {
+          "id": 293,
+          "description": "Talk at Jarburg",
+          "isDone": false
+        },
+        {
+          "id": 294,
+          "description": "Talk at Jarburg after reaching Consecrateed Snowfield",
+          "isDone": false
+        },
+        {
+          "id": 295,
+          "description": "ENDS DIALLO'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 30,
       "name": "Jar Bairn",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 296,
+          "description": "Meet at Jarburg",
+          "isDone": false
+        },
+        {
+          "id": 297,
+          "description": "Talk at Jarburg after Diallo moves to Jarburg",
+          "isDone": false
+        },
+        {
+          "id": 298,
+          "description": "Talk at Jarburg after resting",
+          "isDone": false
+        },
+        {
+          "id": 299,
+          "description": "Reach Consecrated Snowfield",
+          "isDone": false
+        },
+        {
+          "id": 300,
+          "description": "Give him Alexander's Innards",
+          "isDone": false
+        },
+        {
+          "id": 301,
+          "description": "ENDS JAR BAIRN'S QUEST LINE after resting",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 31,
       "name": "Alexander",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 302,
+          "description": "Meet in Stormhill",
+          "isDone": false
+        },
+        {
+          "id": 303,
+          "description": "Talk in Gael Tunnel",
+          "isDone": false
+        },
+        {
+          "id": 304,
+          "description": "Meet in Redmane Castle",
+          "isDone": false
+        },
+        {
+          "id": 305,
+          "description": "Defeat Radahn",
+          "isDone": false
+        },
+        {
+          "id": 306,
+          "description": "Talk at Wailing Dunes",
+          "isDone": false
+        },
+        {
+          "id": 307,
+          "description": "Talk south of the Carian Study Hall",
+          "isDone": false
+        },
+        {
+          "id": 308,
+          "description": "Talk at Mt. Gelmir, behind Magma Wyrm boss",
+          "isDone": false
+        },
+        {
+          "id": 309,
+          "description": "Talk at Crumbling Farum Azula and defeat him in a duel",
+          "isDone": false
+        },
+        {
+          "id": 310,
+          "description": "ENDS ALEXANDER'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 32,
       "name": "Patches",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 311,
+          "description": "Meet at Murkwater Cave as boss and stop hitting him after his health is below 50%",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 10,
+              "description": "Killing Patches as a boss ENDS PATCHES QUEST LINE"
+            }
+          ]
+        },
+        {
+          "id": 312,
+          "description": "Talk to him",
+          "isDone": false
+        },
+        {
+          "id": 313,
+          "description": "Talk to him again after resting",
+          "isDone": false
+        },
+        {
+          "id": 314,
+          "description": "Reach Liurnia of the Lakes",
+          "isDone": false
+        },
+        {
+          "id": 315,
+          "description": "Talk at Scenic Isle Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 316,
+          "description": "Reach Altus Plateau",
+          "isDone": false
+        },
+        {
+          "id": 317,
+          "description": "Talk at Scenic Isle Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 318,
+          "description": "Follow trail of Glowing Stones",
+          "isDone": false
+        },
+        {
+          "id": 319,
+          "description": "Talk to him",
+          "isDone": false
+        },
+        {
+          "id": 320,
+          "description": "Talk in Volcano Manor",
+          "isDone": false
+        },
+        {
+          "id": 321,
+          "description": "Receive Letter to Patches",
+          "isDone": false
+        },
+        {
+          "id": 322,
+          "description": "Assassinate Great Horned Tragoth at Ruin-Strewn Precipe Overlook",
+          "isDone": false
+        },
+        {
+          "id": 323,
+          "description": "Talk to him",
+          "isDone": false
+        },
+        {
+          "id": 324,
+          "description": "Talk at Shaded Castle",
+          "isDone": false
+        },
+        {
+          "id": 325,
+          "description": "Moves back to Murkwater Cave as a boss",
+          "isDone": false
+        },
+        {
+          "id": 326,
+          "description": "Accept his surrender",
+          "isDone": false
+        },
+        {
+          "id": 327,
+          "description": "ENDS PATCHES QUEST LINE AFTER RESTING",
+          "isDone": false
+        }
+      ]
     }
   ]
 }
