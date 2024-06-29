@@ -807,67 +807,736 @@
     {
       "id": 14,
       "name": "Rogier",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 145,
+          "description": "ENDS Rogier's quest line",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 2,
+              "description": "Talk to Ranni at the Three Sisters"
+            }
+          ]
+        },
+        {
+          "id": 146,
+          "description": "Meet in Stormveil Castle",
+          "isDone": false
+        },
+        {
+          "id": 147,
+          "description": "Defeat Godrick",
+          "isDone": false
+        },
+        {
+          "id": 148,
+          "description": "Talk in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 149,
+          "description": "Find misshapen corpse under Stormveil Castle",
+          "isDone": false
+        },
+        {
+          "id": 150,
+          "description": "Ask about Night of the Black Knives",
+          "isDone": false
+        },
+        {
+          "id": 151,
+          "description": "Get Knifeprint Clue from Fia",
+          "isDone": false
+        },
+        {
+          "id": 152,
+          "description": "Find Black Knifeprint in Black Knife Catacombs",
+          "isDone": false
+        },
+        {
+          "id": 153,
+          "description": "Give Rogier Black Knifeprint",
+          "isDone": false
+        },
+        {
+          "id": 154,
+          "description": "Accept to Serve Ranni",
+          "isDone": false
+        },
+        {
+          "id": 155,
+          "description": "Receive Rogier's Letter",
+          "isDone": false
+        },
+        {
+          "id": 156,
+          "description": "Talk to Rogier and rest x3",
+          "isDone": false
+        },
+        {
+          "id": 157,
+          "description": "ENDS ROGIER'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 15,
       "name": "Melina",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 158,
+          "description": "Meet after resting at specific Sites of Grace and receive Torrent",
+          "isDone": false
+        },
+        {
+          "id": 159,
+          "description": "Defeat Morgott, The Omen King",
+          "isDone": false
+        },
+        {
+          "id": 160,
+          "description": "Talk at Elden Throne Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 161,
+          "description": "Defeat Fire Giant",
+          "isDone": false
+        },
+        {
+          "id": 162,
+          "description": "Talk at Forge of the Giants Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 163,
+          "description": "ENDS MELINA'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 16,
       "name": "Blaidd",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 164,
+          "description": "Hear Howl in Mistwood",
+          "isDone": false
+        },
+        {
+          "id": 165,
+          "description": "Receive 'Finger Snap' gesture from Kale",
+          "isDone": false
+        },
+        {
+          "id": 166,
+          "description": "Meet in Mistwood Ruins",
+          "isDone": false
+        },
+        {
+          "id": 167,
+          "description": "Defeat Darriwil",
+          "isDone": false
+        },
+        {
+          "id": 168,
+          "description": "Talk at Forlorn Hound Evergaol",
+          "isDone": false
+        },
+        {
+          "id": 169,
+          "description": "Talk in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 170,
+          "description": "Talk at Siofra River",
+          "isDone": false
+        },
+        {
+          "id": 171,
+          "description": "Defeat Radahn",
+          "isDone": false
+        },
+        {
+          "id": 172,
+          "description": "Talk at Wailing Dunes",
+          "isDone": false
+        },
+        {
+          "id": 173,
+          "description": "Gets trapped in evergaol by Iji",
+          "isDone": false
+        },
+        {
+          "id": 174,
+          "description": "Free Blaidd OR Don't free Blaidd",
+          "isDone": false
+        },
+        {
+          "id": 175,
+          "description": "Defeat him at Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 176,
+          "description": "ENDS BLAIDD'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 17,
       "name": "Iji",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 177,
+          "description": "Meet at Road to the Manor Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 178,
+          "description": "Talk in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 179,
+          "description": "Defeat Radahn",
+          "isDone": false
+        },
+        {
+          "id": 180,
+          "description": "Talk in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 181,
+          "description": "Talk at the Road to the Manor Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 182,
+          "description": "After resting ENDS IJI'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 18,
       "name": "Seluvis",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 183,
+          "description": "Meet in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 184,
+          "description": "Ask about Nokron",
+          "isDone": false
+        },
+        {
+          "id": 185,
+          "description": "Defeat Radahn",
+          "isDone": false
+        },
+        {
+          "id": 186,
+          "description": "Talk in Ranni's Rise",
+          "isDone": false
+        },
+        {
+          "id": 187,
+          "description": "Talk at Seluvis' Rise",
+          "isDone": false
+        },
+        {
+          "id": 188,
+          "description": "ENDS SELUVIS' QUEST LINE",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 3,
+              "description": "Give Ranni the Fingerslayer Blade"
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "description": "Receive potion",
+          "isDone": false
+        },
+        {
+          "id": 190,
+          "description": "Find Seluvis' secret Puppet Room under illusiory floor in Three Sisters ruins",
+          "isDone": false
+        },
+        {
+          "id": 191,
+          "description": "Ask Seluvis about Puppet Room",
+          "isDone": false
+        },
+        {
+          "id": 192,
+          "description": "Find 3 Starlight Shards",
+          "isDone": false
+        },
+        {
+          "id": 193,
+          "description": "Buy all sorceries and 2 puppets",
+          "isDone": false
+        },
+        {
+          "id": 194,
+          "description": "Learn his plot",
+          "isDone": false
+        },
+        {
+          "id": 195,
+          "description": "Find Amber Starlight",
+          "isDone": false
+        },
+        {
+          "id": 196,
+          "description": "Give him Amber Starlight",
+          "isDone": false
+        },
+        {
+          "id": 197,
+          "name": "ENDS SELUVIS' QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 19,
       "name": "Jerren",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 198,
+          "description": "Meet at Redmane Castle",
+          "isDone": false
+        },
+        {
+          "id": 199,
+          "description": "Defeat Radahn",
+          "isDone": false
+        },
+        {
+          "id": 200,
+          "description": "Meet/Talk at Redmane Castle",
+          "isDone": false
+        },
+        {
+          "id": 201,
+          "description": "After receiving Primal Glintstone from Sellen, Talk to Jerren at Withbane Ruind",
+          "isDone": false
+        },
+        {
+          "id": 202,
+          "description": "Find Seluvis' Secret Puppet Room and continue Sellen's Quest line",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 20,
       "name": "Sellen",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 203,
+          "description": "Meet at Waypoint Ruins",
+          "isDone": false
+        },
+        {
+          "id": 204,
+          "description": "Find Primeval Sorcerer Azur at Mt. Gelmir",
+          "isDone": false
+        },
+        {
+          "id": 205,
+          "description": "Receive Sellian Key from her",
+          "isDone": false
+        },
+        {
+          "id": 206,
+          "description": "Give letter of introduction from Seluvis",
+          "isDone": false
+        },
+        {
+          "id": 207,
+          "description": "Find Master Lusat at Sellian Hideaway",
+          "isDone": false
+        },
+        {
+          "id": 208,
+          "description": "Talk at Waypoint Ruins",
+          "isDone": false
+        },
+        {
+          "id": 209,
+          "description": "Talk at Witchbane Ruins and receive Sellen's Primal Glintstone",
+          "isDone": false
+        },
+        {
+          "id": 210,
+          "description": "Find Seluvis' Secret Puppet Room",
+          "isDone": false
+        },
+        {
+          "id": 211,
+          "description": "Give Sellen Sellen's Primal Glintstone",
+          "isDone": false
+        },
+        {
+          "id": 212,
+          "description": "Defeat Rennala",
+          "isDone": false
+        },
+        {
+          "id": 213,
+          "description": "Side with Jerren OR Side with Sellen",
+          "isDone": false
+        },
+        {
+          "id": 214,
+          "description": "ENDS SELLEN'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 21,
       "name": "Gideon Ofnir",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 215,
+          "description": "Meet in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 216,
+          "description": "After Receiving Seluvis' potion, make a choice: Give Gideon the potion OR Give the potion to Nepheli",
+          "isDone": false
+        },
+        {
+          "id": 217,
+          "description": "Defeat Maliketh",
+          "isDone": false
+        },
+        {
+          "id": 218,
+          "description": "Defeat Gideon Ofnir",
+          "isDone": false
+        },
+        {
+          "id": 219,
+          "description": "ENDS GIDEON'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 22,
       "name": "Nepheli Loux",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 220,
+          "description": "Meet in Stormveil Castle",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 5,
+              "description": "Speaking to Melina at the Forge of the Giants"
+            }
+          ]
+        },
+        {
+          "id": 221,
+          "description": "Defeat Godrick",
+          "isDone": false
+        },
+        {
+          "id": 222,
+          "description": "Talk in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 223,
+          "description": "Talk at the Village of the Albinaurics",
+          "isDone": false
+        },
+        {
+          "id": 224,
+          "description": "Defeat Omenkiller",
+          "isDone": false
+        },
+        {
+          "id": 225,
+          "description": "Talk in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 226,
+          "description": "Defeat Grafter Scion",
+          "isDone": false
+        },
+        {
+          "id": 227,
+          "description": "Find Stormhawk King item",
+          "isDone": false
+        },
+        {
+          "id": 228,
+          "description": "Give her Stormhawk King",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 6,
+              "description": "Give Nepheli Seluvis' potion and END NEPHELI QUEST LINE"
+            }
+          ]
+        },
+        {
+          "id": 229,
+          "description": "Defeat Morgott",
+          "isDone": false
+        },
+        {
+          "id": 230,
+          "description": "Talk at Stormveil Castle Throne Room",
+          "isDone": false
+        },
+        {
+          "id": 231,
+          "description": "ENDS NEPHELI'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 23,
       "name": "Kenneth Haight",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 232,
+          "description": "Meet in Mistwood",
+          "isDone": false
+        },
+        {
+          "id": 233,
+          "description": "Clear Fort Haight",
+          "isDone": false
+        },
+        {
+          "id": 234,
+          "description": "Talk at Fort Haight",
+          "isDone": false
+        },
+        {
+          "id": 235,
+          "description": "Talk at Stormveil Castle Throne Room",
+          "isDone": false
+        },
+        {
+          "id": 236,
+          "description": "ENDS KENNETH HAIGHT'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 24,
       "name": "Dung Eater",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 237,
+          "description": "Meet in Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 238,
+          "description": "Find at least one Seedbed Curse",
+          "isDone": false
+        },
+        {
+          "id": 239,
+          "description": "Talk at Roundtable Hold and receive Sewer-Gaol key",
+          "isDone": false
+        },
+        {
+          "id": 240,
+          "description": "Release him from his cell in Subterranean Shunning Ground",
+          "isDone": false
+        },
+        {
+          "id": 241,
+          "description": "Tell him he is free to go and talk to Blackguard Big Boggart",
+          "isDone": false
+        },
+        {
+          "id": 242,
+          "description": "Find his message in room of Roundtable Hold and talk to Blackguard Big Boggart",
+          "isDone": false
+        },
+        {
+          "id": 243,
+          "description": "Continue Blackguard quest line to defeat Dung Eater invader",
+          "isDone": false
+        },
+        {
+          "id": 244,
+          "description": "CHOICE: Give Dung Eater Seluvis' potion and end Dung Eater Quest line and block Blessing of Despair Ending",
+          "isDone": false
+        },
+        {
+          "id": 245,
+          "description": "Find 5 Seedbed Curses",
+          "isDone": false
+        },
+        {
+          "id": 246,
+          "description": "Feed him 5 Seedbed Curses at his cell in Subterranean Shunning Grounds",
+          "isDone": false
+        },
+        {
+          "id": 247,
+          "description": "ENDS DUNG EATER'S QUEST LINE",
+          "isDone": false
+        },
+        {
+          "id": 248,
+          "description": "UNLOCKS: Blessing of Despair ending",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 25,
       "name": "Blackguard Big Boggart",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 249,
+          "description": "Meet at Boilprawn Shack",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 7,
+              "description": "Speaking with Tanith in Volcano Manor without talking to Rya"
+            }
+          ]
+        },
+        {
+          "id": 250,
+          "description": "Buy Rya's necklace",
+          "isDone": false
+        },
+        {
+          "id": 251,
+          "description": "Buy prawns from his shop",
+          "isDone": false
+        },
+        {
+          "id": 252,
+          "description": "Talk at outer moat near the Capital Rampart Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 253,
+          "description": "Talk at Outer Moat after freeing Dung Eater",
+          "isDone": false
+        },
+        {
+          "id": 254,
+          "description": "Talk at Outer Moat after finding Dung Eater message at Roundtable Hold",
+          "isDone": false
+        },
+        {
+          "id": 255,
+          "description": "Defeat Dung Eater invader",
+          "isDone": false
+        },
+        {
+          "id": 256,
+          "description": "ENDS BOGGART'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 26,
       "name": "Rya",
-      "objectives": []
+      "objectives": [
+        {
+          "id": 257,
+          "description": "Meet at Liurnia of the Lakes under the pavilion",
+          "isDone": false
+        },
+        {
+          "id": 258,
+          "description": "Return necklace from Boggart",
+          "isDone": false
+        },
+        {
+          "id": 259,
+          "description": "Reach Altus Plateau",
+          "isDone": false
+        },
+        {
+          "id": 260,
+          "description": "Talk at Grand Lift of Dectus or at lower part of Lux Ruins",
+          "isDone": false
+        },
+        {
+          "id": 261,
+          "description": "Talk at Volcano Manor in snake form after defeating Knight Istvan in Tanith Quest line",
+          "isDone": false
+        },
+        {
+          "id": 262,
+          "description": "Enter the illusionary wall in the room next to hers and reach the Prison Town Church Site of Grace",
+          "isDone": false
+        },
+        {
+          "id": 263,
+          "description": "Defeat the Godskin Noble",
+          "isDone": false
+        },
+        {
+          "id": 264,
+          "description": "Give her the Serpent's Amnion",
+          "isDone": false
+        },
+        {
+          "id": 265,
+          "description": "Moves to a new location in the dungeon",
+          "isDone": false
+        },
+        {
+          "id": 266,
+          "description": "Talk to her in the dungeon",
+          "isDone": false,
+          "blockers": [
+            {
+              "id": 8,
+              "description": "Defeat Rykard"
+            }
+          ]
+        },
+        {
+          "id": 267,
+          "description": "CHOICE: Kill Rya OR Spare Rya OR Give Rya Tonic",
+          "isDone": false
+        },
+        {
+          "id": 268,
+          "description": "If Rya is killed: ENDS RYA'S QUEST LINE. If Rya is spared, talk to her and then rest: ENDS RYA'S QUEST LIEN. If Rya is given tonic, she moves back to manor and the talk to her: ENDS RYA'S QUEST LINE",
+          "isDone": false
+        }
+      ]
     },
     {
       "id": 27,
