@@ -15,7 +15,5 @@ const readDataFile = async () => {
 
 export async function GET() {
   const data = await readDataFile();
-  console.log(data);
-  
   return Response.json(data.questLines);
 }

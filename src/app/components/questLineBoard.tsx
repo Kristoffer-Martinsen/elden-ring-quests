@@ -31,11 +31,13 @@ export default function QuestLineBoard() {
   }, []);
 
   return (
-    <div className='flex flex-row'>
-      <h1>Elden Ring Quest Tracker</h1>
-      {questLines.map(questLine => (
-        <Questline key={questLine.id} questLine={questLine} />
-      ))}
+    <div>
+      <h1 className='mb-4'>Elden Ring Quest Tracker</h1>
+      <div className='grid grid-cols-4 gap-12'>
+        {questLines.map(questLine => (
+          <Questline key={questLine.id} questLine={questLine} />
+        ))}
+      </div>
     </div>
   );
 }

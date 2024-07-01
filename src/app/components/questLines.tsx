@@ -32,11 +32,11 @@ const Questline: React.FC<QuestLineProps> = ({questLine}) => {
   };
 
   return (
-    <div>
-      <h2>{questLine.name}</h2>
+    <div className='overflow-auto h-96 border rounded border-blue-200'>
+      <h2 className='mx-4'>{questLine.name}</h2>
       <ul>
         {objectives.map(obj => (
-          <li key={obj.id}>
+          <li className='flex flex-col my-4 px-4' key={obj.id}>
             <label>
               <input type="checkbox"
               checked={obj.isDone}
