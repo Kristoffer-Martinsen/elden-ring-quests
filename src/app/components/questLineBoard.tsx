@@ -23,9 +23,12 @@ export default function QuestLineBoard() {
 
   useEffect(() => {
     const fetchQuestLines = async () => {
+      // TODO Add check to see if questLines item already exists and
+      // TODO read from it if it does
       const res = await fetch('/api/quest-lines');
       const data = await res.json();
       setQuestLines(data);
+      localStorage.setItem('questLines', JSON.stringify(data));
     };
     fetchQuestLines();
   }, []);
